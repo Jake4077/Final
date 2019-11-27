@@ -1,3 +1,4 @@
+# This is an As Is upload for november 25th. The first snapshot of completed coding
 import random
 import time
 import pygame
